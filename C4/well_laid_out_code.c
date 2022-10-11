@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /* My first program */
-int main(void)
+void main()
 {
   printf("Hello World");
-  return 0;
+  
 }

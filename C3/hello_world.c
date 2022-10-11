@@ -2,9 +2,8 @@
 #include <stdio.h>
  
 /* My first program */
-int main(void)
+void main()
 {
   // This is a single line of comment
-  printf("Hello World");
-  return 0;
+  printf("Hello World \n ");
 }
